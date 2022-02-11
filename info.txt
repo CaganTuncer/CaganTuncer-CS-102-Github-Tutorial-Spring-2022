@@ -1,2 +1,18 @@
 Çağan Tuncer - 22102018 - https://github.com/CaganTuncer
 Fav Video Game - Overwatch
+
+commit ae35dbd88e3c556702f93f903ee4c9bd73b3cb5d (HEAD -> main)
+Merge: 609db97 858f81d
+Author: Çağan Tuncer <cagan.tuncer@ug.bilkent.edu.tr>
+Date:   Fri Feb 11 14:00:39 2022 +0300
+
+    Merge remote-tracking branch 'origin/main' into main
+
+commit 858f81d0b0478b9f3ace528029b2999012444e23 (origin/main, origin/HEAD)
+Merge: 7349a0c 7fe6147
+Author: CaganTuncer <91589268+CaganTuncer@users.noreply.github.com>       
+Date:   Fri Feb 11 13:59:56 2022 +0300
+
+    Merge pull request #1 from CaganTuncer/new_information
+
+:
